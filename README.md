@@ -7,8 +7,9 @@ Please download the entire folder and copy paste into carla/Unreal/CarlaUE4/Cont
 
 
 
-For the folders in extra instructions needed. Please do the following before running.
+For the scenarios in the folder extra_instructions_needed. Please do the following before running.
 
+![Screenshot](screenshot.png)
 
 
 Note use ./Rebuild.sh to recompile
