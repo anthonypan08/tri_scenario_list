@@ -9,7 +9,7 @@ Please download the entire folder and copy paste into carla/Unreal/CarlaUE4/Cont
 
 For the scenarios in the folder extra_instructions_needed. Please do the following before running.
 
-![Screenshot]("Screenshot from 2018-11-01 15-06-58.png")
+![Screenshot](screenshot.png)
 
 
 Note use ./Rebuild.sh to recompile
